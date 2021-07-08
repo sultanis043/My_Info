@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sultanis043
+- 👋 Hi, I’m Sultan Salahuddin
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on something useful on web devlopment
