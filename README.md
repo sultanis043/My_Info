@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sultan Salahuddin
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning React
+- 🌱 I’m React Developer.
 - 💞️ I’m looking to collaborate on something useful on web devlopment
 - 📫 How to reach me drop mail at sultanis043@gmail.com
 
